@@ -1,10 +1,6 @@
 <img 
-src="https://github.com/ColtonFry/Positioning-Floats.wiki.git" 
+src=![Hops The Dog](https://i.natgeofe.com/n/4f5aaece-3300-41a4-b2a8-ed2708a0a27c/domestic-dog_thumb_square.jpg)
 alt="Hops Funny Dog" 
 style="float: left; margin-right: 15px;"
 />
           
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  
-</picture>
