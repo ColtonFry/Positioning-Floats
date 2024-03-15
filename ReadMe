@@ -1,5 +1,15 @@
 <!DOCTYPE html>
 <h1><br><center>Team Page Assignment</br></h1>
+
+<nav class="crumbs">
+  <ol>
+    <li class="crumb">Hops The Dog</a></li>
+    <li class="crumb"<Goldie The Fish</a></li>
+    <li class="crumb">The Beetle</li>
+ <li class="crumb">Red The Apple</li>
+  </ol>
+</nav>
+
 <h4><br><center>Hops The Dog</br></h4>
   	 <body>
 
